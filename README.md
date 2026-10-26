@@ -1,4 +1,4 @@
-# voiceclone
+# voici - voiceclone
 
 Clone your own voice from a short recording, then speak any text with it. Runs locally, free.
 
